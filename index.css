@@ -1,0 +1,18 @@
+/* Universal CSS */
+.bgorange  {
+    background-color: #ff1616;
+}
+
+.fcorange  {
+    color: #ff1616;
+}
+
+.carousalbtn  {
+    height: 5px !important;
+    width: 5px !important;
+}
+
+.carousalbtn.active  {
+    outline: 1px solid white;
+    outline-offset: 5px;
+}
