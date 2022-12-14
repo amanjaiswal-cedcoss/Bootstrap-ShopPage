@@ -3,8 +3,14 @@
     background-color: #ff1616;
 }
 
+.topleftbadge  {
+    right: -8px;
+    top: -8px;
+}
+
 .fcorange  {
     color: #ff1616;
+    border-color: #ff1616;
 }
 
 .carousalbtn  {
@@ -15,4 +21,71 @@
 .carousalbtn.active  {
     outline: 1px solid white;
     outline-offset: 5px;
+}
+
+.bglightorange  {
+   background-color: #fef4f4;
+}
+
+.fsplayfair  {
+    font-family: 'Playfair Display', serif;
+}
+
+.carousalcaption  {
+    bottom:30%;
+    left:25%;
+}
+
+.fontxl  {
+    font-size: 50px;
+}
+
+.fclightorange  {
+    color:#ff5700;
+}
+
+.vshort-text  {
+    font-size: 14px;
+}
+
+.short-text  {
+    font-size: 14px;
+}
+
+.carousal-prevbtn  {
+    left: -9%;
+}
+
+.carousal-nextbtn  {
+    right: -9%;
+}
+
+.featured__image  {
+    max-height: 400px;
+}
+
+.promotion__parts__absolpos  {
+    top: 40%;
+    left: 12%;
+}
+
+.newsletter  {
+    background-image: url("https://preview.colorlib.com/theme/abcbook/assets/img/gallery/section-bg1.jpg.webp");
+    background-size: 100% 100%;
+}
+
+.newsletter__inpemail  {
+    max-width: 200px;
+}
+
+.footer__partshead  {
+    margin-bottom: 20px;
+}
+
+.footer__parts  {
+    max-width: 260px;
+}
+
+.footer__lists  {
+    list-style: none;
 }
