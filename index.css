@@ -69,6 +69,13 @@
     left: 12%;
 }
 
+@media only screen and (max-width: 460px) {
+    .promotion__parts__absolpos  {
+        top: 15%;
+        left: 12%;
+    } 
+  }
+
 .newsletter  {
     background-image: url("https://preview.colorlib.com/theme/abcbook/assets/img/gallery/section-bg1.jpg.webp");
     background-size: 100% 100%;
