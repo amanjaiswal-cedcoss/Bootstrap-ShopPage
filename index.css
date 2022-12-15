@@ -60,10 +60,12 @@
     right: -9%;
 }
 
+/* Featured Section CSS */
 .featured__image  {
     max-height: 400px;
 }
 
+/* Promotion Section CSS */
 .promotion__parts__absolpos  {
     top: 40%;
     left: 12%;
@@ -76,6 +78,7 @@
     } 
   }
 
+/* Newsletter Section CSS   */
 .newsletter  {
     background-image: url("https://preview.colorlib.com/theme/abcbook/assets/img/gallery/section-bg1.jpg.webp");
     background-size: 100% 100%;
@@ -85,6 +88,7 @@
     max-width: 200px;
 }
 
+/* Footer CSS */
 .footer__partshead  {
     margin-bottom: 20px;
 }
